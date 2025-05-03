@@ -9,6 +9,7 @@
 
 /* Variáveis */
 :root {
+    --fonte-padrao: 'Times New Roman', Times, serif;
     --verde-1: #c5ebd6;
     --verde-2: #83e1ad;
     --verde-3: #3ddc84;
@@ -20,6 +21,7 @@
 /* Versão desktop */
 body {
     background-image: linear-gradient(to bottom, var(--verde-1), var(--verde-2));
+    font-family: var(--fonte-padrao);
 }
 
 header nav {

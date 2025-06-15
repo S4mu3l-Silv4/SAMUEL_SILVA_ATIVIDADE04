@@ -1,4 +1,4 @@
-# Projeto SAMUEL_SILVA_ATIVIDADE04:
+# SAMUEL_SILVA_ATIVIDADE04:
 
   Este site foi criado individualmente por https://github.com/S4mu3l-Silv4 como um projeto avaliativo para a Praxis Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
   <br>

@@ -1,6 +1,6 @@
 # SAMUEL_SILVA_ATIVIDADE04:
 
-  Este site foi feito individualmente por https://github.com/S4mu3l-Silv4 como um projeto avaliativo para a Praxis Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
+  Este site foi desenvolvido individualmente por https://github.com/S4mu3l-Silv4 como um projeto avaliativo para a Praxis Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
   <br>
   <br>
 ## Site no ar:

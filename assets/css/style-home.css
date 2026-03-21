@@ -79,17 +79,3 @@
         height: 250px;
         width: 250px;
     }
-
-    footer nav {
-        background-color: var(--verde-4);
-        color: var(--verde-6);
-        font-size: 1.1em;
-        letter-spacing: 1px;
-        padding: 2px;
-        text-align: center;
-    }
-
-    footer nav a {
-        color: var(--verde-6);
-        text-decoration: none;
-    }

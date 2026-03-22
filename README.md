@@ -3,7 +3,7 @@
   Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em front-end.
   <br>
   <br>
-## Site no ar:
+## Demanda no ar:
 
   https://s4mu3l-silv4.github.io/SAMUEL_SILVA_ATIVIDADE04/home.html
   <br>

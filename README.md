@@ -1,6 +1,6 @@
 # SAMUEL_SILVA_ATIVIDADE04:
 
-  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades na área Front-End.
+  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades na área Front-end.
   <br>
   <br>
 ## Demanda no ar:
